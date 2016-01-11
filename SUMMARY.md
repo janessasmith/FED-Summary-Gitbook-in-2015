@@ -8,5 +8,4 @@
    * [example 1](section2/example1.md)
 * 前端问题解决集合
    * 前端优化
-       * 图片延迟加载问题
 
