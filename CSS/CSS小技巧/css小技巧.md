@@ -7,12 +7,18 @@
 ```
 <aside>
     <nav class="nav-side">
-        <ul>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航二</a></li>
-            <li><a href="#">导航三</a></li>
-        </ul>
+        <div class="bio">个人介绍内容</div>
     </nav>
 </aside>
+<main class="content"></main>
+
+```
+CSS样式是：
+```
+.bio {
+    font-size: .8em;
+    line-height: 1.5;
+    color: #eee;
+}
 
 ```
