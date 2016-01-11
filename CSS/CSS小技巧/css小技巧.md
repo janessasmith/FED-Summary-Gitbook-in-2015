@@ -9,12 +9,8 @@
     <nav class="nav-side">
         <ul>
             <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
-            <li><a href="#">导航一</a></li>
+            <li><a href="#">导航二</a></li>
+            <li><a href="#">导航三</a></li>
         </ul>
     </nav>
 </aside>
